@@ -13,4 +13,6 @@ Also, there are always the original papers:
 
 The original kaggle kernel can be accessed through the link https://www.kaggle.com/ricafernandes/tweet-text-extraction-given-sentiment-roberta
 
-*Future plans*: implement roberta using fast autoregressive transformers with linear attention. By doing so, a huge performance boost is expected, paired with a slight loss of performance, hopefully turning roberta viable in real-time applications.
+*Future plans*: 
+* fine tune the model
+* implement roberta using fast autoregressive transformers with linear attention. By doing so, a huge performance boost is expected, paired with a slight loss of performance, hopefully turning roberta viable in real-time applications.
