@@ -2,6 +2,7 @@
 *Text extraction given sentiment using roberta model*
 
 For this experiment, it was used 5 fold cross validation in order to train a roberta model that, given a tweet and sentiment, can extract text that justifies the given sentiment.
+
 The overall Jaccard score on the task was 0.6987
 
 In order to learn the fundamentals of attention and BERT based models, I strongly recommend reading Jay Alammar blog posts http://jalammar.github.io/
