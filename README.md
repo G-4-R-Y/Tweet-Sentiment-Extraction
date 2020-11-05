@@ -5,7 +5,7 @@ For this experiment, it was used 5 fold cross validation in order to train a rob
 
 The overall Jaccard score on the task was 0.6987
 
-In order to learn the fundamentals of attention and BERT based models, I strongly recommend reading Jay Alammar blog posts http://jalammar.github.io/
+In order to learn the fundamentals of attention and BERT based models, I strongly recommend reading Jay Alammar's blog posts http://jalammar.github.io/
 
 Also, there are always the original papers: 
 -Attention is All You Need: https://arxiv.org/abs/1706.03762
